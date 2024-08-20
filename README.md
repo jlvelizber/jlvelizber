@@ -9,6 +9,7 @@ Soy un desarrollador freelance de Ecuador, apasionado por la tecnología y la pr
 - 💻 Desarrollador Fullstack con experiencia en ReactJS y Node.js.
 - 👯 Buscando colaborar en proyectos de código abierto.
 - 💬 Pregúntame sobre ReactJS, Laravel, y desarrollo web.
+- 💻 Desarrollo de plugins de Wordpress 
 - 📫 Cómo contactarme: [jorgeconsalvacion@gmail.com](mailto:jorgeconsalvacion@gmail.com)
 
 ## Lenguajes y Herramientas
@@ -19,15 +20,14 @@ Soy un desarrollador freelance de Ecuador, apasionado por la tecnología y la pr
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 
 ## Mis Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jlvelizber&show_icons=true&theme=radical)
 
 ## Conecta Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlveliz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jlvelizber)
