@@ -6,13 +6,15 @@ Soy un desarrollador freelance de Ecuador, apasionado por la tecnología y la pr
 
 - 🔭 Actualmente trabajando en proyectos de software y CRM de abogados basados en Laravel.
 - 🌱 Aprendiendo NestJS y patrones de diseño en el ORM Eloquent de Laravel.
+- 💻 Desarrollador Fullstack con experiencia en ReactJS y Node.js.
 - 👯 Buscando colaborar en proyectos de código abierto.
-- 💬 Pregúntame sobre Laravel, NestJS, y desarrollo web.
+- 💬 Pregúntame sobre ReactJS, Laravel, y desarrollo web.
 - 📫 Cómo contactarme: [jorgeconsalvacion@gmail.com](mailto:jorgeconsalvacion@gmail.com)
 
 ## Lenguajes y Herramientas
 
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
+![ReactJs](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
