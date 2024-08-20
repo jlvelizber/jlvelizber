@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Jorge Veliz! 👋
 
 Soy un desarrollador freelance de Ecuador, apasionado por la tecnología y la programación.
 
